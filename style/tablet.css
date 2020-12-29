@@ -1,0 +1,80 @@
+.encabezado{
+    min-height: 440px ;
+}
+
+.titulo{
+    width: 466px;
+    font-size: 4.0rem;
+    line-height: 4.2rem;
+}
+
+.texto{
+    width: 55%;
+    font-size: 2.0rem;
+    line-height: 2.4rem;
+}
+
+.section-first-contenedorTabla{
+    justify-content: center;
+    align-items: center;
+    scroll-behavior: unset;
+    overflow-x: unset;
+}
+
+.section-second{
+    height: 644px;
+}
+
+.section-second-titulo{
+    padding-top: 64px;
+}
+
+.section-second-cuadro{
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 900px;
+    margin-bottom: 50px;
+}
+
+.cone, .cthree{
+    margin-right: 16px;
+}
+
+.section-three-imag{
+    height:299px;
+}
+
+.section-three-imag img{
+    height: 299px;
+}
+
+.section-three-titulo{
+    top:129px;
+}
+
+.section-four-cuadros{
+    justify-content: center;
+    align-items: center;
+    scroll-behavior: unset;
+    overflow-x: unset;
+}
+
+.menu-ask-menu td{
+    font-size: 2.0rem;
+    line-height: 2.4rem;
+}
+
+.pie-pagina{
+    height: 271px;
+}
+
+.pie-pagina a{
+    font-size: 2.0rem;
+    line-height: 2.4rem;
+    padding:16px;
+}
+
+.logo-pie-pagina{
+    width: 166px;
+    height: 111px;
+}
